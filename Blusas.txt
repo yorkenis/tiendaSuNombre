@@ -1,2 +1,6 @@
 1- Blusas en rebajas
+<<<<<<< HEAD
 2- Blusas de colores 
+=======
+2- Blusas de colores 
+>>>>>>> 90c515f3ee48a0462ca62d76c93311bd909cceb9
