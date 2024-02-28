@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+1- Vestido rojos
+2- Blusas blancas
+=======
 1- Vestido rojo
+2- Blusas blancas
+3- Camisas negras
+4- Zapatos blancos
+>>>>>>> 65469e1dabf027829109ef655d45c581f71dce72
